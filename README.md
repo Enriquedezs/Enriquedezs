@@ -69,6 +69,19 @@ El proyecto sigue un flujo completo de ciencia de datos, dividido en seis etapas
 - **Segmentación:** los 350 productos se agruparon en 4 niveles de desempeño; Vanish se concentra en el mercado medio con productos estrella, y presenta 14 SKU marginales como oportunidad de mejora.
 - **Predicción:** Vanish resultó estable y predecible (**MAPE ≈ 9.55%**); Lysol está en declive y es menos predecible (**MAPE ≈ 25.86%**).
 
+## ▶️ Cómo reproducir
+
+```bash
+# 1. Clonar el repositorio
+git clone https://github.com/<tu-usuario>/<tu-repo>.git
+
+# 2. Instalar las dependencias
+pip install -r requirements.txt
+
+# 3. Abrir los notebooks de cada etapa con Jupyter
+jupyter notebook
+```
+
 ## 🛠️ Stack tecnológico
 
 `Python` · `pandas` · `Matplotlib` · `Seaborn` · `scikit-learn` · `statsmodels` · `SQL (SQLite)` · `Power BI` · `Jupyter Notebook`
