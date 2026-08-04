@@ -89,24 +89,7 @@ Fija (Pin) tus mejores 2–6 repos en tu perfil para que se vean destacados. -->
 
 ---
 
-## 📊 GitHub en números
 
-<div align="center">
-
-![Estadísticas de Enrique](https://github-readme-stats.vercel.app/api?username=Enriquedezs&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Enriquedezs&layout=compact&hide_border=true&theme=tokyonight&langs_count=6)
-
-</div>
-
----
-
-## 📫 Hablemos
-
-¿Buscas a alguien que convierta tus datos en decisiones? Estoy abierto a nuevas oportunidades.
-
-[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Email](https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
 
 <!-- Opcional — descomenta si quieres un contador de visitas discreto:
 ![Perfil visto](https://komarev.com/ghpvc/?username=Enriquedezs&color=blue&style=flat-square&label=Perfil+visto)
