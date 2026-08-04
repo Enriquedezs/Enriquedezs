@@ -5,7 +5,7 @@
 
 ### Data Scientist · Data Analyst · Machine Learning
 
-**Convierto datos crudos en decisiones de negocio** — del dato sin procesar al dashboard y al modelo predictivo.
+**Apasionado por extraer valor de los datos y resolver problemas de negocio.**
 
 [![Open to Work](https://img.shields.io/badge/Disponible-Abierto_a_oportunidades-2EA44F?style=for-the-badge)](mailto:tu_correo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
