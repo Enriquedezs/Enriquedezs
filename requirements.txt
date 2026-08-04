@@ -1,0 +1,11 @@
+# Dependencias del proyecto — Análisis y Predicción de Ventas
+# Instalación:  pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+openpyxl        # lectura de archivos Excel (.xlsx)
+jupyter
