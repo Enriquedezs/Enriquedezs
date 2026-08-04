@@ -82,7 +82,7 @@ Pipeline **end-to-end** de ciencia de datos: limpieza → EDA → segmentación 
 
 `Python` · `pandas` · `scikit-learn` · `SQL` · `Power BI`
 
-🔗 **[Ver proyecto completo →](https://github.com/Enriquedezs/prediccion-ventas-ml)**
+🔗 **[Ver proyecto completo →]([https://github.com/Enriquedezs/prediccion-ventas-ml](https://github.com/Enriquedezs/Enriquedezs))**
 
 <!-- COMPLETA: cuando tengas más proyectos, duplica este bloque.
 Fija (Pin) tus mejores 2–6 repos en tu perfil para que se vean destacados. -->
