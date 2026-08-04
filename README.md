@@ -22,17 +22,6 @@ Disfruto todo el recorrido: entender el problema, limpiar y explorar los datos,
 construir modelos que aporten valor y **comunicar los hallazgos de forma clara**
 para quien toma decisiones.
 
-
----
-
-## 💡 Qué puedo aportar a tu equipo
-
-- 🧹 **Limpieza y transformación de datos** con Python (pandas) para dejar datasets listos para analizar.
-- 📊 **Análisis exploratorio (EDA)** y estadística para encontrar patrones e *insights* accionables.
-- 🤖 **Machine Learning** (regresión, clustering) para predecir resultados y segmentar clientes/productos.
-- 🗄️ **SQL** para extraer, cruzar y agregar información de bases de datos.
-- 📈 **Dashboards en Power BI** para traducir los resultados a perfiles no técnicos.
-
 ---
 
 ## 🛠️ Stack Tecnológico
